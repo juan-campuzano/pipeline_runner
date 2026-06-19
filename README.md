@@ -4,6 +4,8 @@
 [![Flame](https://img.shields.io/badge/Flame-^1.18.0-orange.svg)](https://flame-engine.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Pipeline Runner Screenshot](.attachments/image.png)
+
 **Pipeline Runner** (también conocido internamente como *Commit Runner*) es un juego móvil de carrera infinita (infinite runner) desarrollado en **Flutter** utilizando el motor de videojuegos **Flame**. 
 
 La temática del juego gira en torno al ciclo de desarrollo de software: el jugador controla a un **Commit** (representado por un avatar animado) que avanza de manera automática y debe esquivar obstáculos tecnológicos como **Bugs**, **Líneas de Código Rotas** y **Servidores Caídos** para intentar llegar a producción.
